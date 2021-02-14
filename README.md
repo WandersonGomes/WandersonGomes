@@ -12,3 +12,6 @@ Email: dersom100@gmail.com
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WandersonGomes)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandersonGomes)](https://github.com/anuraghazra/github-readme-stats)
+
+## Cursos e Certificados
+Python para Android, IOS, Windows, Linux e MAC (Desde o Basico) - <a href="https://www.udemy.com/certificate/UC-4I16AUNX/">Clique aqui para visualizar o certificado</a> - UDEMY

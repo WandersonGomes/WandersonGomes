@@ -14,4 +14,5 @@ Email: dersom100@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandersonGomes)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Cursos e Certificados
-Python para Android, IOS, Windows, Linux e MAC (Desde o Basico) - <a href="https://www.udemy.com/certificate/UC-4I16AUNX/">Clique aqui para visualizar o certificado</a> - UDEMY
+Python para Android, IOS, Windows, Linux e MAC (Desde o Basico) - <a href="https://www.udemy.com/certificate/UC-4I16AUNX/">Clique aqui para visualizar o certificado</a> - UDEMY<br>
+Introducao a programacao com Python - <a href="https://certificates.digitalinnovation.one/6194D547">Clique aqui para visualizar o certificado</a> - Digital Innovation One<br>

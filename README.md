@@ -16,3 +16,10 @@ Email: dersom100@gmail.com
 ## Cursos e Certificados
 Python para Android, IOS, Windows, Linux e MAC (Desde o Basico) - <a href="https://www.udemy.com/certificate/UC-4I16AUNX/">Clique aqui para visualizar o certificado</a> - UDEMY<br>
 Introducao a programacao com Python - <a href="https://certificates.digitalinnovation.one/6194D547">Clique aqui para visualizar o certificado</a> - Digital Innovation One<br>
+
+### ETIB - 2020
+Certificado de Participação - <a href="https://www.even3.com.br/documentos/imprimir?i=4847619.2913676.6.5.043517271953558&cc=BD8B19F2-334A-4BA3-83DE-A62BEA72B235">Clique aqui para visualizar o certificado</a> - EVEN<br>
+Certificado de Atividade - Desenvolvimento WEB com Python, Django e Bootstrap - <a href="https://www.even3.com.br/documentos/imprimir?i=4847614.2913676.894772.5.04351427195350743328&cc=BD8B19F2-334A-4BA3-83DE-A62BEA72B235">Clique aqui para visualizar o certificado</a> - EVEN <br>
+Certificado de Atividade - Mesa-Redonda sobre Aplicações de Inteligência Artificial - <a href="https://www.even3.com.br/documentos/imprimir?i=4847614.2913676.894779.5.04351427195350743378&cc=BD8B19F2-334A-4BA3-83DE-A62BEA72B235">Clique aqui para visualizar o certificado</a> - EVEN <br>
+Certificado de Atividade - Introdução a Ciência de Dados - <a href="https://www.even3.com.br/documentos/imprimir?i=4847614.2913676.894774.5.04351427195350743348&cc=BD8B19F2-334A-4BA3-83DE-A62BEA72B235">Clique aqui para visualizar o certificado</a> - EVEN <br>
+Certificado de Atividade - Núcleo de Práticas em Engenharia de Software - NUPREDS - <a href="https://www.even3.com.br/documentos/imprimir?i=4847614.2913676.894777.5.04351427195350743338&cc=BD8B19F2-334A-4BA3-83DE-A62BEA72B235">Clique aqui para visualizar o certificado</a> - EVEN <br>

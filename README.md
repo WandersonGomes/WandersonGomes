@@ -24,3 +24,6 @@ Certificado de Atividade - Desenvolvimento WEB com Python, Django e Bootstrap - 
 Certificado de Atividade - Mesa-Redonda sobre Aplicações de Inteligência Artificial - <a href="https://www.even3.com.br/documentos/imprimir?i=4847614.2913676.894779.5.04351427195350743378&cc=BD8B19F2-334A-4BA3-83DE-A62BEA72B235">Clique aqui para visualizar o certificado</a> - EVEN <br>
 Certificado de Atividade - Introdução a Ciência de Dados - <a href="https://www.even3.com.br/documentos/imprimir?i=4847614.2913676.894774.5.04351427195350743348&cc=BD8B19F2-334A-4BA3-83DE-A62BEA72B235">Clique aqui para visualizar o certificado</a> - EVEN <br>
 Certificado de Atividade - Núcleo de Práticas em Engenharia de Software - NUPREDS - <a href="https://www.even3.com.br/documentos/imprimir?i=4847614.2913676.894777.5.04351427195350743338&cc=BD8B19F2-334A-4BA3-83DE-A62BEA72B235">Clique aqui para visualizar o certificado</a> - EVEN <br>
+
+### LINUX
+Shell Script - Manipulando Arquivos - <a href="https://certificates.digitalinnovation.one/B2DA7A56">Clique aqui para visualizar o certificado</a> - Digital Innovation One<br>

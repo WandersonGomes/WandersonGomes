@@ -27,3 +27,6 @@ Certificado de Atividade - Núcleo de Práticas em Engenharia de Software - NUPR
 
 ### LINUX
 Shell Script - Manipulando Arquivos - <a href="https://certificates.digitalinnovation.one/B2DA7A56">Clique aqui para visualizar o certificado</a> - Digital Innovation One<br>
+
+### JAVASCRIPT
+JavaScript ES6 essencial - <a href="https://certificates.digitalinnovation.one/D85F7BE3">Clique aqui para visualizar o certificado </a> - Digital Innovation One<br>

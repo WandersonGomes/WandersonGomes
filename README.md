@@ -30,4 +30,4 @@ Shell Script - Manipulando Arquivos - <a href="https://certificates.digitalinnov
 
 ### JAVASCRIPT
 JavaScript ES6 essencial - <a href="https://certificates.digitalinnovation.one/D85F7BE3">Clique aqui para visualizar o certificado </a> - Digital Innovation One<br>
-Learn JavaScript Course - <a href="https://www.codecademy.com/profiles/wandersonGomesdaCosta1478828405/certificates/705dcb15de0da4dd9d9fc4f3274b430e">Clique aqui para visualizar o certificado</a> - CodeCademy
+Learn JavaScript Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-javascript-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy

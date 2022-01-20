@@ -35,6 +35,9 @@ Learn JavaScript Course - <a href="https://github.com/WandersonGomes/certificado
 ### C/C++
 Learn C Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-c-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy
 
+### JAVA
+Learn Java Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-java-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy
+
 ### HTML
 Learn HTML Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-html-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy
 

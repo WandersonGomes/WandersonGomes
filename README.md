@@ -43,3 +43,6 @@ Learn HTML Course - <a href="https://github.com/WandersonGomes/certificados/blob
 
 ### PYTHON 3
 Learn Python 3 Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-python-3-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy
+
+### SQL
+Learn SQL Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-c-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy

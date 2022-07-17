@@ -13,6 +13,12 @@ Email: dersom100@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandersonGomes)](https://github.com/anuraghazra/github-readme-stats)
 
+## LIVROS LIDOS
+A Arte de Escrever Programas Legiveis - Editora: Novatec - Atuor(es): Dustin Boswell e Trevor Foucher.<br>
+<a href="https://novatec.com.br/livros/programas-legiveis/">
+  <img src="https://github.com/WandersonGomes/capa-livros/capa-a-arte-de-escrever-programas-legiveis.jpeg">
+</a>
+
 ## Cursos e Certificados
 ### PYTHON
 Python para Android, IOS, Windows, Linux e MAC (Desde o Basico) - <a href="https://www.udemy.com/certificate/UC-4I16AUNX/">Clique aqui para visualizar o certificado</a> - UDEMY<br>

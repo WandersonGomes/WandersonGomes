@@ -16,7 +16,7 @@ Email: dersom100@gmail.com
 ## LIVROS LIDOS
 A Arte de Escrever Programas Legiveis - Editora: Novatec - Atuor(es): Dustin Boswell e Trevor Foucher.<br>
 <a href="https://novatec.com.br/livros/programas-legiveis/">
-  <img src="https://github.com/WandersonGomes/capa-livros/capa-a-arte-de-escrever-programas-legiveis.jpeg">
+  <img src="https://github.com/WandersonGomes/capa-livros/capa-a-arte-de-escrever-programas-legiveis.jpg">
 </a>
 
 ## Cursos e Certificados

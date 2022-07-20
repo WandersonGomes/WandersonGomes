@@ -14,7 +14,7 @@ Email: dersom100@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandersonGomes)](https://github.com/anuraghazra/github-readme-stats)
 
 ## LIVROS LIDOS
-A Arte de Escrever Programas Legiveis - Editora: Novatec - Atuor(es): Dustin Boswell e Trevor Foucher.<br>
+A Arte de Escrever Programas Legiveis - Editora: Novatec - Autor(es): Dustin Boswell e Trevor Foucher.<br>
 <a href="https://novatec.com.br/livros/programas-legiveis/">
   <img src="https://github.com/WandersonGomes/capa-livros/blob/main/capa-a-arte-de-escrever-programas-legiveis.jpg?raw=true">
 </a>
@@ -40,6 +40,7 @@ Learn JavaScript Course - <a href="https://github.com/WandersonGomes/certificado
 
 ### C/C++
 Learn C Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-c-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy
+Learn C++ Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-c++-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy
 
 ### JAVA
 Learn Java Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-java-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy

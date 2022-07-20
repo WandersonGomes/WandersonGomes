@@ -39,7 +39,7 @@ JavaScript ES6 essencial - <a href="https://certificates.digitalinnovation.one/D
 Learn JavaScript Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-javascript-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy
 
 ### C/C++
-Learn C Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-c-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy
+Learn C Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-c-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy<br>
 Learn C++ Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-c++-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy
 
 ### JAVA

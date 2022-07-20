@@ -40,7 +40,9 @@ Learn JavaScript Course - <a href="https://github.com/WandersonGomes/certificado
 
 ### C/C++
 Learn C Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-c-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy<br>
-Learn C++ Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-c++-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy
+Learn C++ Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-c++-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy<br>
+Learn C++ for Programmers - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-c++-for-programmers-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy
+
 
 ### JAVA
 Learn Java Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-java-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy

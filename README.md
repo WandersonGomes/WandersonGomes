@@ -33,6 +33,7 @@ Certificado de Atividade - Núcleo de Práticas em Engenharia de Software - NUPR
 
 ### LINUX
 Shell Script - Manipulando Arquivos - <a href="https://certificates.digitalinnovation.one/B2DA7A56">Clique aqui para visualizar o certificado</a> - Digital Innovation One<br>
+Learn The Command Line Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-the-command-line-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy
 
 ### JAVASCRIPT
 JavaScript ES6 essencial - <a href="https://certificates.digitalinnovation.one/D85F7BE3">Clique aqui para visualizar o certificado </a> - Digital Innovation One<br>

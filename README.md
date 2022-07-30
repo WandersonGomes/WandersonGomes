@@ -17,6 +17,10 @@ Email: dersom100@gmail.com
 A Arte de Escrever Programas Legiveis - Editora: Novatec - Autor(es): Dustin Boswell e Trevor Foucher.<br>
 <a href="https://novatec.com.br/livros/programas-legiveis/">
   <img src="https://github.com/WandersonGomes/capa-livros/blob/main/capa-a-arte-de-escrever-programas-legiveis.jpg?raw=true">
+</a><br>
+O Programador Pragmatico - Editora: Bookman - Autor(es): Andrew Hunt e David Thomas.<br>
+<a href="https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre-ebook/dp/B019HM0H90>
+  <img src="https://raw.githubusercontent.com/WandersonGomes/capa-livros/main/capa-o-programador-pragmatico.jpg">
 </a>
 
 ## Cursos e Certificados

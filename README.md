@@ -19,8 +19,8 @@ A Arte de Escrever Programas Legiveis - Editora: Novatec - Autor(es): Dustin Bos
   <img src="https://github.com/WandersonGomes/capa-livros/blob/main/capa-a-arte-de-escrever-programas-legiveis.jpg?raw=true">
 </a><br>
 O Programador Pragmatico - Editora: Bookman - Autor(es): Andrew Hunt e David Thomas.<br>
-<a href="https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre-ebook/dp/B019HM0H90>
-  <img src="https://raw.githubusercontent.com/WandersonGomes/capa-livros/main/capa-o-programador-pragmatico.jpg">
+<a href="https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre-ebook/dp/B019HM0H90">
+  <img src="https://raw.githubusercontent.com/WandersonGomes/capa-livros/main/capa-o-programador-pragmatico.jpg" style="width:60px; height:80px">
 </a>
 
 ## Cursos e Certificados

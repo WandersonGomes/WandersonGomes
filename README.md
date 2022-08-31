@@ -35,6 +35,9 @@ Certificado de Atividade - Mesa-Redonda sobre Aplicações de Inteligência Arti
 Certificado de Atividade - Introdução a Ciência de Dados - <a href="https://www.even3.com.br/documentos/imprimir?i=4847614.2913676.894774.5.04351427195350743348&cc=BD8B19F2-334A-4BA3-83DE-A62BEA72B235">Clique aqui para visualizar o certificado</a> - EVEN <br>
 Certificado de Atividade - Núcleo de Práticas em Engenharia de Software - NUPREDS - <a href="https://www.even3.com.br/documentos/imprimir?i=4847614.2913676.894777.5.04351427195350743338&cc=BD8B19F2-334A-4BA3-83DE-A62BEA72B235">Clique aqui para visualizar o certificado</a> - EVEN <br>
 
+### IFCE
+Certificado de Participacao do Desafio Computacional - <a href="https://github.com/WandersonGomes/certificados/blob/master/desafio-de-pensamento-computacional-ifce%20.pdf">Clique aqui para visualizar o certificado</a> - IFCE<br>
+
 ### LINUX
 Shell Script - Manipulando Arquivos - <a href="https://certificates.digitalinnovation.one/B2DA7A56">Clique aqui para visualizar o certificado</a> - Digital Innovation One<br>
 Learn The Command Line Course - <a href="https://github.com/WandersonGomes/certificados/blob/master/learn-the-command-line-course-codecademy.pdf">Clique aqui para visualizar o certificado</a> - CodeCademy

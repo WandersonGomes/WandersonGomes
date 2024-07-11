@@ -2,7 +2,7 @@
 ## Dados Pessoais
 <pre>
 Nome: Wanderson Gomes
-Profissao: Estudante
+Profissao: Suporte Técnico - Integralize Sistemas
 Nivel de Escolaridade: Superior Incompleto
 Curso: Ciencia da Computacao - Bacharelado
 Instituicao: IFCE - Instituto Federal do Ceara - Campus Tiangua
